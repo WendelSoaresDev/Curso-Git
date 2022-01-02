@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System; 
+
+namespace TopicosEspeciais
+{
+    public class Program
+    {
+        static void Main(String[] args)
+        {
+            Console.WriteLine("Olá mundo!");
+            Console.WriteLine("Bom dia!");
+
+            Console.ReadLine();
+        }
+    }
+}
