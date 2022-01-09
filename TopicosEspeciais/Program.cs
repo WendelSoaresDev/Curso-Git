@@ -9,7 +9,7 @@ namespace TopicosEspeciais
             Console.WriteLine("Olá mundo!");
             Console.WriteLine("Bom dia!");
             Console.WriteLine("Boa tarde!");
-            
+            Console.WriteLine("Testando o push pro git");
             Console.ReadLine();
         }
     }
